@@ -16,7 +16,7 @@ In this repository, I have shared simple scripts to help you get started as a py
 2. First Test Code
 3. Building a Basic Calculator
 4. Dictionaries in Python
-5. Whileloops in Puthon  
+5. Whileloops in Python  
 6. Working with Tuple
 7. Working with Functions
 8. Working with List in Python 
