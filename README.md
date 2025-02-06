@@ -10,7 +10,7 @@ In this repository, I have shared simple scripts to help you get started as a py
 
 ![pythoned](https://github.com/user-attachments/assets/3b8821a8-4659-465f-8e27-d0aa875456fc)
 
-**Repository Structure **
+**Repository Structure**
 
 1. README.md
 2. First Test Code
