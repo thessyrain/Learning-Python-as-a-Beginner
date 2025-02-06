@@ -10,3 +10,14 @@ In this repository, I have shared simple scripts to help you get started as a py
 
 ![pythoned](https://github.com/user-attachments/assets/3b8821a8-4659-465f-8e27-d0aa875456fc)
 
+Repository Structure 
+
+1. README.md
+2. First Test Code
+3. Building a Basic Calculator
+4. Dictionaries in Python
+5. Whileloops in Puthon  
+6. Working with Tuple
+7. Working with Functions
+8. Working with List in Python 
+9.Building a guessing game 
