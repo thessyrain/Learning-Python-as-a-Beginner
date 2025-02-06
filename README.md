@@ -1,4 +1,4 @@
-# Learning-Python-as-a-Beginner
+# Learning-Python-as-a-Rookie
 
 **Introduction**
 
