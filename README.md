@@ -4,7 +4,7 @@
 
 Welcome to Python Basics for Beginners, a beginner-friendly repository that introduces core Python concepts through simple, practical projects. Whether you're just starting or looking for easy projects to practice, this repository is for you!
 
-One of the reasons i started coding in python is because of its versaility, it is easy to use and its an open source, everyone has access to Python, which makes it have a strong community. 
+One of the reasons i started coding in python is because of its versatility, it is easy to use and its an open source, everyone has access to Python, this makes it have a strong community. It has simple syntax and it has extensive libraries for various applications, data analysis, machine learning (Pandas, Numpy, Scikitlearn etc).
 
 In this repository, I have shared simple scripts to help you get started as a python beginner. 
 
